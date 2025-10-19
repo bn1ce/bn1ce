@@ -17,7 +17,7 @@
 
 5. CHAGEE Menu & Ordering System (C#, ASP.NET)
 
-6. Student Assistant System (Python)
+6. Student Assistant System (Python) https://github.com/bn1ce/Python-Assignment.git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

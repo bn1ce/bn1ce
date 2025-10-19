@@ -7,17 +7,17 @@
 
 - 👨‍💻 All of my academic projects are available at here:
 
-1. Hardware Ordering System (C++)
+1. Hardware Ordering System (C++) https://github.com/bn1ce/Hardware-Ordering-System.git
 
-2. Ice Skating Tickets Ordering System (x86 assembly)
+2. Ice Skating Tickets Ordering System (x86 assembly) https://github.com/bn1ce/Ice-Skating-Tickets-Ordering-System.git
 
-3. Vehicle Rental System (Java)
+3. Vehicle Rental System (Java) https://github.com/bn1ce/Vehicle-Rental-System.git
 
-4. Perfume Reselling Website (PHP)
+4. Perfume Reselling Website (PHP) https://github.com/bn1ce/Perfume-Reselling-Website.git
 
-5. CHAGEE Menu & Ordering System (C#, ASP.NET)
+5. CHAGEE Menu & Ordering System (C#, ASP.NET) https://github.com/bn1ce/CHAGEE-Menu-Ordering-System.git
 
-6. Student Assistant System (Python) https://github.com/bn1ce/Python-Assignment.git
+6. Student Assistant System (Python) https://github.com/bn1ce/Student-Assistant-System.git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
